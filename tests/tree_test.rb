@@ -1,5 +1,6 @@
 require_relative "test_helper"
 require_relative "../lib/tree.rb"
+require_relative '../config/environment.rb'
 
 class TreeTest < Minitest::Test
 	# :species, common_name:, :lifespan, :type, :average_height
