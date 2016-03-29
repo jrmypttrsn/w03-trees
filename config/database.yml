@@ -1,0 +1,6 @@
+  # database.yml
+  host: 'localhost'
+  adapter: 'postgresql'
+  database: 'bug-tracker'
+  encoding: 'utf8'
+  pool: 5
